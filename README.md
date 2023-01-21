@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew J. McDonald [@famesjranko]
-- 👀 I’m interested in Sys-admin, networking, virtualisation, blockchain and the crypto space
-- 🌱 I’m currently studying I.T. @ La Trobe University
+- 👀 I’m interested in Sys-admin, networking, virtualisation, and all things linux, bash, and python
+- 🌱 I’m currently working as a fullstack developer @ La Trobe University
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me here on github, or via my website: https://landofoz.dynu.net/
 
