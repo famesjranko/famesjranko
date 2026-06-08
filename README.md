@@ -1,4 +1,4 @@
-👋 Hi, I'm Andrew   
+👋 Hey, a little bit about me...   
 🐧 Linux enjoyer   
 🌐 Networking and infrastructure nerd   
 🧰 Backend developer who keeps wandering into infrastructure   
